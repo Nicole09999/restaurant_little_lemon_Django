@@ -26,22 +26,59 @@ Little Lemon, a local bistro, aims to enhance customer experience through a digi
 5. **Template Update**: Design the `menu_item.html` template for individual menu items.
 
 ### Part 3: Create the Footer Template
-1. **Footer Template Creation**: Develop the `_footer.html` template for website footer.
-2. **Integration**: Link the footer template in the `base.html` file.
+1. add the footer part to the `base.html` file 
 
 ### Additional Steps
 1. **Reservation Submission**: Submit a reservation form on the Little Lemon website.
 2. **Database Inspection**: Verify reservation data in the SQLite database using SQLite Explorer.
 
+## Getting Started# Getting Started
 ## Getting Started
-1. **Environment Setup**: Ensure Python and Django are installed.
-2. **Project Setup**: Clone the project repository and navigate to the project directory.
-3. **Activation**: Activate the virtual environment (if used).
-4. **Installation**: Install project dependencies.
-5. **Configuration**: Configure necessary settings.
-6. **Development**: Follow the provided steps to implement features.
-7. **Testing**: Test functionality and verify data entry.
-8. **Deployment**: Deploy the website to the desired server (if applicable).
+1. **Environment Setup**: Ensure Python and Django are installed, clone the project repository, navigate to the project directory, and activate the virtual environment (if used).
+   ```bash
+   # Check Python installation
+   python --version
+
+   # Install Django (if not installed)
+   pip install django
+
+   # Clone repository
+   git clone <repository_url>
+
+   # Navigate to project directory
+   cd <project_directory>
+
+   # Activate virtual environment (if used)
+   source <virtual_env_directory>/bin/activate
+
+
 
 ## Conclusion
 Upon completing the steps outlined in this README, you'll have successfully developed the Menu and Menu Item pages for the Little Lemon website. Ensure thorough testing and adherence to coding standards throughout the development process. Happy coding!
+
+
+images:
+home page:
+![image](https://github.com/Nicole09999/restuarant_little_lemon_Django/assets/106644205/6b05785d-00f1-45f7-ae45-6aa69470ad5b)
+
+menu:
+![image](https://github.com/Nicole09999/restuarant_little_lemon_Django/assets/106644205/1f1303fe-c895-4684-8d22-4183fb7a3d4a)
+
+menu_item:
+![image](https://github.com/Nicole09999/restuarant_little_lemon_Django/assets/106644205/3bc3832a-c66e-4f32-b699-3dc490669ae5)
+
+reservation:
+![image](https://github.com/Nicole09999/restuarant_little_lemon_Django/assets/106644205/b7005e4b-1d75-46c7-933f-a9b8492bbf53)
+
+about us:
+![image](https://github.com/Nicole09999/restuarant_little_lemon_Django/assets/106644205/4ecab77c-c9ec-4150-985a-e0c3162980eb)
+
+database:
+![image](https://github.com/Nicole09999/restuarant_little_lemon_Django/assets/106644205/0bf276b3-ccbc-4e5c-9706-26df3d8b1b6d)
+
+![image](https://github.com/Nicole09999/restuarant_little_lemon_Django/assets/106644205/82c7daf6-adbe-40e6-b8c6-51892e8c056e)
+
+
+
+
+
