@@ -1,4 +1,4 @@
-# restuarant_ittle_lemon_Django
+# restuarant_little_lemon_Django
 # Little Lemon Website Development README
 
 ## Introduction
